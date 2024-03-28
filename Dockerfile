@@ -1,4 +1,4 @@
-FROM consul:latest
+FROM consul:1.15
 
 # Copy your Consul configuration file into the container
 COPY consul-config.json consul-config.json

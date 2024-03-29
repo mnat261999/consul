@@ -1,5 +1,5 @@
 {
   "builds": [
-    { "src": "Dockerfile", "use": "@vercel/docker" }
+    { "src": "Dockerfile", "use": "@vercel/static-build" }
   ]
 }

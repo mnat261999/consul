@@ -1,0 +1,7 @@
+{
+  "name": "consul-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "docker build -t my-consul-image ."
+  }
+}
